@@ -1,6 +1,6 @@
 # Currency converter
 
-![Money](./src/images/README_background.png)
+![Money](./public/README_background.png)
 
 Simple currency converted based in React.
 
